@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+#environment files
+.env
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below if you use dep or any other dependency manager)
+vendor/
+Godeps/
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*~
+.project
+.classpath
+.cproject
+.settings/
+.metadata/
+.mvn/
